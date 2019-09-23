@@ -1,4 +1,4 @@
-package rpcServer
+package rpc_server
 
 import (
 	"github.com/getmorebrasil/amqp-connection/connection"
